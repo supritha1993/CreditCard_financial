@@ -14,6 +14,18 @@ WOW Change(Week 53)
 2.Total transaction amount is increased by 0.35% and transaction count is increased by 0.03%
 3.Customer  count is increased by 0.28%
 
+Overall :
+revenue is 57M
+Total interest is 8M
+Total transaction amount is 46M
+Male Customer counts are contributing more in revenue 31M, female 26M
+Blue and silver credit cards are contributing  93% overall transactions
+TX, NY, CA is contributing  68% of revenue
+Overall card activation rate is  57.5%
+Overall delinquent rate is 6.06% 
+
+
+
 
 
 
